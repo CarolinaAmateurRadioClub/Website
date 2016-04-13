@@ -2,9 +2,8 @@
 layout: page
 title: About
 ---
-<p align="left">
-  <img src="{{ site.baseurl }}public/img/alanb.jpg" alt="Alan's Photo") align="right">
-</p>
+
+![Alan](/public/img/alanb.jpg){: .setright }
 
 Please allow me to introduce my self and an idea I have for a new Amateur Radio club. I am Alan Byrd, I live in Iron Station, NC & my call sign is KK4QBU. I got my first Ham ticket in April of this year and was immediately hooked on amateur radio. I have since went on to obtain my Extra Class License.
 

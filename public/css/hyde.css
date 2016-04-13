@@ -123,6 +123,17 @@ a.sidebar-nav-item:focus {
 }
 
 
+.setright {
+  float: right;
+}
+
+.setleft {
+  float: left;
+}
+
+.setcenter {
+  float: center;
+}
 /* Container
  *
  * Align the contents of the site above the proper threshold with some margin-fu

@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Carolina Amateur Radio Club
+tagline:          "Test 1 2 3"
+description:      'Expanding communication interest and technical knowledge to amateurs and non-amateurs alike.'
+url:              http://www.carolinaradioclub.com
+baseurl:          /
+
+author:
+  name:           'Roy Williams'
+  url:            https://www.fang64.com
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/CarolinaAmateurRadioClub/Website

@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Chat
+layout: page
 ---
 
 Join Our Chat by clicking Connect below,

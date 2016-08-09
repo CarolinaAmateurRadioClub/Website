@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Events
+layout: page
 ---
 
 Our meeting location is currently at:

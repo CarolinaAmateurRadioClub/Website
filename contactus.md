@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Contact Us
+layout: page
 ---
 
 <p>Our meeting location is currently at:

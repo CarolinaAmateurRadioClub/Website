@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Photos
+layout: page
 ---
 
 <!--- had to not use markdown here due to window targets I did not want to leave our website, open a new window --->

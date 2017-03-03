@@ -1,6 +1,6 @@
 ---
 published: true
-date: CURRENT_DATETIME
+date: 2017-03-02T20:32:00.000Z
 ---
 ## New Update
 

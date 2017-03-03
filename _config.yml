@@ -1,6 +1,6 @@
 ---
 title: Carolina Amateur Radio Club
-timezone: UTC
+timezone: America/New_York
 collections:
   posts:
     title: Posts
@@ -11,7 +11,6 @@ collections:
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-tagline: Test 1 2 3
 description: Expanding communication interest and technical knowledge to amateurs
   and non-amateurs alike.
 url: http://www.carolinaradioclub.com

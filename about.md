@@ -1,6 +1,6 @@
 ---
-layout: page
 title: About
+layout: page
 ---
 
 ![Alan](/public/img/alanb.jpg){: .setright }

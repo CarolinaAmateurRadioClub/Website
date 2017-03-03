@@ -1,6 +1,6 @@
 ---
 published: true
-date: {}
+date: CURRENT_DATETIME
 ---
 ## New Update
 

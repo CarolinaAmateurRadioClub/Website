@@ -1,6 +1,6 @@
 ---
 published: true
-date: {}
+date: 2017-03-02T00:00:00.000Z
 ---
 ## New Update
 

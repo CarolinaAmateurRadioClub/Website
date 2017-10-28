@@ -1,6 +1,6 @@
 ---
 published: true
-date: 2017-10-21
+date: 2017-10-27
 ---
 ## New Update
 
@@ -12,6 +12,6 @@ Our meeting location is: 322 North Academy Street Lincolnton NC, 28092
 
 **Our regular club meetings are every Thursday Night starting at 6:00 pm**
 
-***Our next meeting is October 26, 2017***
+***Our next meeting is November 2, 2017***
 
-Lincoln County Fire Dept Radio Exercise Sat October 21, 2017 at 9:00 am to Noon
+Lincolnton Christmas Parade, Sun November 26, 2017. Meet at the East side of the Courthouse at 3:00 pm.

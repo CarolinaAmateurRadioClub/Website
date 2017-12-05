@@ -1,6 +1,6 @@
 ---
 published: true
-date: 2017-11-20
+date: 2017-12-04
 ---
 ## New Update
 
@@ -12,6 +12,6 @@ Our meeting location is: 322 North Academy Street Lincolnton NC, 28092
 
 **Our regular club meetings are every Thursday Night starting at 6:00 pm**
 
-***Our next meeting is November 30, 2017***
+***Our next meeting is December 16, 2017***
 
-Lincolnton Christmas Parade, Sun November 26, 2017. Meet at the East side of the Courthouse at 3:00 pm.
+Christmas Banquet will be on Saturday, December 9 starting at 6:00pm at the Denver Masonic Lodge, 3333 St. James Church Rd, Denver, NC 28037

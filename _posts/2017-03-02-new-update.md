@@ -1,6 +1,6 @@
 ---
 published: true
-date: 2018-01-12
+date: 2018-01-17
 ---
 ## New Update
 
@@ -12,4 +12,4 @@ Our meeting location is: 322 North Academy Street Lincolnton NC, 28092
 
 **Our regular club meetings are every Thursday Night starting at 6:00 pm**
 
-***Our next meeting is January 18, 2018***
+***Our next meeting is January 25, 2018***

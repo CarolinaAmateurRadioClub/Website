@@ -1,4 +1,6 @@
 --
+title: Carolina Radio Club New Update
+layout: post
 published: true
 date: 2018-03-30
 ---

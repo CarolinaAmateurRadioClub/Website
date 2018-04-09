@@ -2,7 +2,7 @@
 title: Carolina Radio Club New Update
 layout: post
 published: true
-date: 2018-03-30
+date: 2018-04-09
 ---
 ## New Update
 
@@ -14,4 +14,4 @@ Our meeting location is: 322 North Academy Street Lincolnton NC, 28092
 
 **Our regular club meetings are every Thursday Night starting at 6:00 pm**
 
-***Our next meeting is April 5, 2018***
+***Our next meeting is April 12, 2018***

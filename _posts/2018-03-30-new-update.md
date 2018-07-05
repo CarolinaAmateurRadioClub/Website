@@ -8,7 +8,7 @@ date: 2018-06-28
 
 **Testing** is suspended at this time for an undetermined time. Please check back as we will update the website with information as it becomes available
 
-If you have any questions, email Bill Bush <mailto:n4wgb@arrl.net>.
+If you have any questions, email Bill Bush <mailto:kt4nc.carc@gmail.com>.
 
 Our meeting location is: 352 Low Bridge Rd, Iron Station
 

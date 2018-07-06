@@ -11,6 +11,7 @@ collections:
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
+repository: CarolinaAmateurRadioClub/Website
 description: Expanding communication interest and technical knowledge to amateurs
   and non-amateurs alike.
 url: http://www.carolinaradioclub.com

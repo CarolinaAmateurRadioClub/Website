@@ -2,7 +2,7 @@
 title: Carolina Radio Club New Update
 layout: post
 published: true
-date: 2018-07-06
+date: 2018-07-13
 ---
 ## New Update
 
@@ -12,5 +12,4 @@ If you have any questions, email Bill Bush <mailto:kt4nc.carc@gmail.com>.
 
 Our meeting location is: 352 Low Bridge Rd, Iron Station
 
-
-***Our next meeting is July 12th, 2018 at 7:00 PM***
+***Our next meeting is July 19th, 2018 at 7:00 PM***

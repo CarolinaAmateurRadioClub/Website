@@ -4,8 +4,8 @@ layout: page
 ---
 
 Our meeting location is currently at:
-322 N. Academy St.
-Lincolnton, NC 28092
+352 Low Bridge Rd, 
+Iron Station, NC 28080
 
 We usually meet every Thursday at 6PM, and please bring any items that you want to trade / sell / contribute or have questions about as we have an excellent group of folks that are quite knowledgeable.
 

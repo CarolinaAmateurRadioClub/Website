@@ -2,7 +2,7 @@
 title: Carolina Radio Club New Update
 layout: post
 published: true
-date: 2018-08-10
+date: 2018-08-17
 ---
 ## New Update
 
@@ -11,6 +11,6 @@ Please bring Government ID, $15 testing fee, a copy of your license, if you have
 
 If you have any questions, email Bill Bush <mailto:kt4nc.carc@gmail.com>.
 
-Our meeting location is: 352 Low Bridge Rd, Iron Station
+Our meeting location is: 352 Low Bridge Rd, Iron Station  *** This will change next after the meeting on the Aug 23rd meeting ***
 
-*** Our next meeting is August 16, 2018 at 7:00 PM ***
+*** Our next meeting is August 23, 2018 at 7:00 PM ***

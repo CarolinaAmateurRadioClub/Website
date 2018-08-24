@@ -4,8 +4,8 @@ layout: page
 ---
 
 Our meeting location is currently at:
-North 321 Volunteer Fire Department
-3769 Maiden HWY
+North 321 Volunteer Fire Department,
+3769 Maiden HWY,
 Lincolnton, NC 28092 
 
 We usually meet every Thursday at 6:30 PM, and please bring any items that you want to trade / sell / contribute or have questions about as we have an excellent group of folks that are quite knowledgeable.

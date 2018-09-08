@@ -12,5 +12,5 @@ We usually meet every Thursday at 6:30 PM, and please bring any items that you w
 
 We also be testing on the 1st and 4th meetings starting on August 23rd, 2018 at 7:00 pm. When coming to test please bring the following items; For New licenses bring your photo ID, and your SS#, if upgrading also bring a copy of your license and any CSCEs that you are using to leave with the VEs, also bring $15 cash prefered and of course all of the correct answers.
 
-<iframe src="https://www.google.com/calendar/embed?src=carolinaamateurradioclub%40gmail.com&ctz=America/New_York" style="border: 0" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=kt4nc.carc%40gmail.com&amp;color=%231B887A&amp;src=en.usa%23holiday%40group.v.calendar.google.com&amp;color=%230F4B38&amp;ctz=America%2FNew_York" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 

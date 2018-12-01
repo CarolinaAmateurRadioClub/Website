@@ -7,7 +7,7 @@ date: 2018-12-1
 ## New Update
 
 **Testing** will take place on the 1st and 4th Thursday of each month.
-Please bring Government ID, $15, a copy of your license, if you have one, know your FRN or Social Security Number and have all the correct answers. There is no fee to test.
+Please bring Government ID, a copy of your license, if you have one, know your FRN or Social Security Number and have all the correct answers. There is no fee to test.
 
 If you have any questions, email Bill Bush <mailto:kt4nc.carc@gmail.com>.
 

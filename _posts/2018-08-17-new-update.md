@@ -7,7 +7,6 @@ date: 2019-03-22
 ## New Update
 
 *****************************************************************************************************
-***NO MEETING NEXT WEEK...........
 
 The N321 station is hosting a benefit BBQ for one of their own. This BBQ is on Sat March 23rd.  
 As the N321 station is our HOST for club meetings and Field Day location - the club needs to 

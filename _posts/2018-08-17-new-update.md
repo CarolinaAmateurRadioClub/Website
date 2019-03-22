@@ -2,7 +2,7 @@
 title: Carolina Radio Club New Update
 layout: post
 published: true
-date: 2019-03-15
+date: 2019-03-22
 ---
 ## New Update
 
@@ -14,8 +14,6 @@ As the N321 station is our HOST for club meetings and Field Day location - the c
 help support this BBQ!!!!!
 
 **Volunteers are needed:
-
-Thur Night Mar 21st - 8 pm - food prep for a couple of hrs
 
 Fri Night Mar 22nd - 6 pm - setup for a couple of hrs
 

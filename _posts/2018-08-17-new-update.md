@@ -2,26 +2,9 @@
 title: Carolina Radio Club New Update
 layout: post
 published: true
-date: 2019-03-22
+date: 2019-03-26
 ---
 ## New Update
-
-*****************************************************************************************************
-
-The N321 station is hosting a benefit BBQ for one of their own. This BBQ is on Sat March 23rd.  
-As the N321 station is our HOST for club meetings and Field Day location - the club needs to 
-help support this BBQ!!!!!
-
-**Volunteers are needed:
-
-Fri Night Mar 22nd - 6 pm - setup for a couple of hrs
-
-Sat Morning Mar 23rd - 7 am  serving..parking..etc   all morning
-
-To get your name on the BBQ volunteer list 
-Send an email to <mailto:kt4nc.carc@gmail.com>...attention John Hull  KN4DOH
-
-*****************************************************************************************************
 
 **Testing** will take place on the 1st and 4th Thursday of each month.
 

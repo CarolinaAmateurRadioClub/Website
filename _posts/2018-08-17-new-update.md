@@ -2,7 +2,7 @@
 title: Carolina Radio Club New Update
 layout: post
 published: true
-date: 2019-03-26
+date: 2019-04-01
 ---
 ## New Update
 
@@ -16,4 +16,4 @@ If you have any questions, email <mailto:kt4nc.carc@gmail.com>.
 
 Our meeting location is: North 321 Volunteer Fire Department, 3769 Maiden HWY, Lincolnton, NC 28092
 
-*** Our next meeting is March 28, 2019 at 7:00 PM ***
+*** Our next meeting is April 4, 2019 at 7:00 PM ***

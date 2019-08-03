@@ -6,15 +6,15 @@ date: 2019-07-25
 ---
 ## New Update
 
-**Testing** will take place on the 1st and 4th Thursday of each month.
+**Testing** We have updated our testing dates, testing will take place on the 1st Thursday of each month.
 
-You must have a FRN number to be tested. If you don't haved one, go to this site https://www.fcc.gov/wireless/support/universal-licensing-system-uls-resources/getting-fcc-registration-number-frn and Click Register and follow directions.
+You must have a FRN number to be tested. If you don't haved one, go to this site https://www.fcc.gov/wireless/support/universal-licensing-system-uls-resources/getting-fcc-registration-number-frn and Click Register and follow directions. Testing will not be done unless the above is brought with the testee. We are no longer allowed to ask for or use SSNs for testing.
 
-Please bring Government ID, a copy of your license, if you have one, or your FRN and have all the correct answers. There is no fee to test.
+Please bring Government ID, a copy of your license, if you have one, or your FRN and have all the correct answers. There is no fee to test, unless we are doing an ARRL session, then the cost will be $15. Please RSVP to the email below with your name, phone, and date you wish to test on. If you know which class you wish to test for please include that also. 
 
 If you have any questions, email <mailto:kt4nc.carc@gmail.com>.
 
 Our meeting location is: North 321 Volunteer Fire Department, 3769 Maiden HWY, Lincolnton, NC 28092
 
 
-*** Our next meeting is August 1, 2019 at 7:00 PM ***
+*** Our next meeting is August 8, 2019 at 7:00 PM ***

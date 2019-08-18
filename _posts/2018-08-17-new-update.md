@@ -6,6 +6,11 @@ date: 2019-07-25
 ---
 ## New Update
 
+**Meetings** Due to lack of attendance and for a temporary time we are meeting on the first three weeks of the month.
+             First week: Testing and for those that are not testing some kind of training or a mini program.
+             Second week: Is our business meeting.
+             Third week: Will be a training or program.
+             
 **Testing** We have updated our testing dates, testing will take place on the 1st Thursday of each month.
 
 You must have a FRN number to be tested. If you don't haved one, go to this site https://www.fcc.gov/wireless/support/universal-licensing-system-uls-resources/getting-fcc-registration-number-frn and Click Register and follow directions. Testing will not be done unless the above is brought with the testee. We are no longer allowed to ask for or use SSNs for testing.

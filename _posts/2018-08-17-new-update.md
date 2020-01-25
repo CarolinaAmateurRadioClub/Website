@@ -2,14 +2,19 @@
 title: Carolina Radio Club New Update
 layout: post
 published: true
-date: 2019-07-25
+date: 1/24/2020
 ---
+
+**Winter Field Day:**
+
+Carolina Amateur Radio Club will be having our Winter Field Day on 2pm Saturday 1/25 til 2pm Sunday 1/26.  It will be in Maiden (Catawba County) at 2755 Bud Arndt Rd, 28650.  Come on out and have some food and fun for all!
+
 ## New Update
 
-**Meetings**  We meet on the first three weeks of the month.
+**Meetings**  We meet on the first three Thursdays of the month.
 **First week:** Testing and for those that are not testing some kind of training or a mini program.
 **Second week:** Is our business meeting.
-**Third week:** Will be training or a program.
+**Third week:** Will be training or a presentation/program.
              
 **Testing** We have updated our testing dates, see Events calender for dates each month. We will offer both ARRL and Laurel testing.
 
@@ -22,4 +27,4 @@ If you have any questions, email <mailto:kt4nc.carc@gmail.com>.
 Our meeting location is: North 321 Volunteer Fire Department, 3769 Maiden HWY, Lincolnton, NC 28092
 
 
-*** Our next meeting is November 21, 2019 at 7:00 PM ***
+*** Our next meeting is Thursday February 6th, 2020 at 7:00 PM ***

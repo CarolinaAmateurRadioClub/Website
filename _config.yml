@@ -15,7 +15,7 @@ repository: CarolinaAmateurRadioClub/Website
 description: Expanding communication interest and technical knowledge to amateurs
   and non-amateurs alike.
 url: http://www.carolinaradioclub.com
-baseurl: //www.carolinaradioclub.com/
+baseurl: "//www.carolinaradioclub.com/"
 author:
   name: Roy Williams
   url: https://www.fang64.com

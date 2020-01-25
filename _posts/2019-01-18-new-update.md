@@ -1,9 +1,9 @@
 ---
 title: Carolina Radio Club New Update
+date: 2019-01-18 00:00:00 -05:00
 layout: post
-published: true
-date: 2019-01-18
 ---
+
 ## New Update
 
 **Testing** will take place on the 1st and 4th Thursday of each month.

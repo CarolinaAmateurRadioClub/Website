@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Bob's Corner
+layout: page
 ---
 
 Two-Tube CW Transmitter for 80 Meters 6L6 Metal Tube, Pierce, Crystal-Controlled Oscillator 

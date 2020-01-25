@@ -2,7 +2,7 @@
 title: Carolina Radio Club New Update
 layout: post
 published: true
-date: 1/24/2020
+date: 2020-01-24
 ---
 
 **Winter Field Day:**

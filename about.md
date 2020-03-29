@@ -1,5 +1,5 @@
 ---
-title: _About_
+title: About
 layout: page
 ---
 

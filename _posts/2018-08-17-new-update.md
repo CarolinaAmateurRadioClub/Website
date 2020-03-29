@@ -8,8 +8,6 @@ date: 2020-03-28
 **٭٭DUE TO THE CURRENT CORONAVIRUS PANDEMIC SITUATION OUR CLUB MEETINGS, FUNCTIONS, & TESTING ARE SUSPENDED UNTIL FURTHER NOTICE...  PLEASE STAY TUNED TO OUR SOCIAL MEDIAS FOR UPDATES ON WHEN WE WILL RESUME REGULAR OPERATION...  THANK YOU FOR YOUR UNDERSTANDING DURING THIS DIFFICULT TIME٭٭**{: style="color: red;" }
 
 
-## New Update
-
 **Meetings**  We meet on the first three Thursdays of the month.
 **First week:** Testing and for those that are not testing some kind of training or a mini program.
 **Second week:** Is our business meeting.

@@ -7,9 +7,6 @@ date: 2020-01-24
 
 **٭٭DUE TO THE CURRENT CORONAVIRUS PANDEMIC SITUATION OUR CLUB MEETINGS, FUNCTIONS, & TESTING ARE SUSPENDED UNTIL FURTHER NOTICE...  PLEASE STAY TUNED TO OUR SOCIAL MEDIAS FOR UPDATES ON WHEN WE WILL RESUME REGULAR OPERATION...  THANK YOU FOR YOUR UNDERSTANDING DURING THIS DIFFICULT TIME٭٭**{: style="color: red;" }
 
-**Winter Field Day:**
-
-Carolina Amateur Radio Club will be having our Winter Field Day on 2pm Saturday 1/25 til 2pm Sunday 1/26.  It will be in Maiden (Catawba County) at 2755 Bud Arndt Rd, 28650.  Come on out and have some food and fun for all!
 
 ## New Update
 
@@ -29,4 +26,4 @@ If you have any questions, email <mailto:kt4nc.carc@gmail.com>.
 Our meeting location is: North 321 Volunteer Fire Department, 3769 Maiden HWY, Lincolnton, NC 28092
 
 
-*** Our next meeting is Thursday February 6th, 2020 at 7:00 PM ***
+*** Our next meeting is to be determined pending the CoronaVirus pandemic resolution ***

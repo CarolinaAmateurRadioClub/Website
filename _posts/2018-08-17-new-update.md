@@ -1,5 +1,3 @@
-
-
 ---
 title: Carolina Radio Club New Update
 layout: post

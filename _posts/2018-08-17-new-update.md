@@ -1,5 +1,5 @@
 ---
-title: Carolina Radio Club New Update
+title: Carolina Radio Club
 layout: post
 published: true
 date: 2020-03-28

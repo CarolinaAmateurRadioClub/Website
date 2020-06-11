@@ -16,7 +16,7 @@ This club is not meant to take you away from any club or organization you are al
 
 73's
 
-Alan Byrd, Founder & President
+Alan Byrd, Founder
 
 KK4QBU
 

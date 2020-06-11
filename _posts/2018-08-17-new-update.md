@@ -2,10 +2,10 @@
 title: Carolina Radio Club
 layout: post
 published: true
-date: 2020-03-28
+date: 2020-06-09
 ---
 
-**٭٭DUE TO THE CURRENT CORONAVIRUS PANDEMIC SITUATION OUR CLUB MEETINGS, FUNCTIONS, & TESTING ARE SUSPENDED UNTIL FURTHER NOTICE...  PLEASE STAY TUNED TO OUR SOCIAL MEDIAS FOR UPDATES ON WHEN WE WILL RESUME REGULAR OPERATION...  THANK YOU FOR YOUR UNDERSTANDING DURING THIS DIFFICULT TIME٭٭**{: style="color: red;" }
+**٭٭WE HAVE RESUMED TESTING & CLUB MEETINGS AS OF 6/1/2020.  SOCIAL DISTANCING WILL BE IN EFFECT AT ALL MEETINGS & TEST SESSIONS AND MASKS WILL BE REQUIRED.  THANK YOU FOR YOUR UNDERSTANDING DURING THIS DIFFICULT TIME٭٭**{: style="color: red;" }
 
 
 **Meetings**  We meet on the first three Thursdays of the month.
@@ -21,7 +21,7 @@ Along with the above, please bring a Government ID, a copy of your license, if y
 
 If you have any questions, email <mailto:kt4nc.carc@gmail.com>.
 
-Our meeting location is: North 321 Volunteer Fire Department, 3769 Maiden HWY, Lincolnton, NC 28092
+Our meeting location is: The Church Lincolnton, 1959 Startown Rd, Lincolnton, NC 28092
 
 
-*** Our next meeting is to be determined pending the CoronaVirus pandemic resolution ***
+*** Our next meeting is Thursday June 11th, 2020 @ 7:00pm ***

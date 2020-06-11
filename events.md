@@ -2,11 +2,11 @@
 title: Events
 layout: page
 ---
-**٭٭DUE TO THE CURRENT CORONAVIRUS PANDEMIC SITUATION OUR CLUB MEETINGS, FUNCTIONS, & TESTING ARE SUSPENDED UNTIL FURTHER NOTICE...  PLEASE STAY TUNED TO OUR SOCIAL MEDIAS FOR UPDATES ON WHEN WE WILL RESUME REGULAR OPERATION...  THANK YOU FOR YOUR UNDERSTANDING DURING THIS DIFFICULT TIME٭٭**{: style="color: red;" }
+**٭٭WE HAVE RESUMED TESTING & CLUB MEETINGS AS OF 6/1/2020.  SOCIAL DISTANCING WILL BE IN EFFECT AT ALL MEETINGS & TEST SESSIONS AND MASKS WILL BE REQUIRED.  THANK YOU FOR YOUR UNDERSTANDING DURING THIS DIFFICULT TIME٭٭**{: style="color: red;" }
 
 **Our meeting location is currently at:**
-**North 321 Volunteer Fire Department**
-**3769 Maiden Hwy**
+**The Church Lincolnton**
+**1959 Startown Rd**
 **Lincolnton, NC 28092**
 
 We meet the first 3 Thursdays of the month at 7:00 PM, however you're welcome to come at 6:30 PM for greets and ragchews. Please bring any items that you want to trade / sell / contribute or have questions about as we have an excellent group of folks that are quite knowledgeable.

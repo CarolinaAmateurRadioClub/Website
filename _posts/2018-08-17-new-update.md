@@ -9,9 +9,9 @@ date: 2020-06-11
 
 
 **Meetings:**  We meet on the first three Thursdays of the month.  
-**First week:** Testing and for those that are not testing some kind of training or a mini program.  
-**Second week:** Is our business meeting.  
-**Third week:** Will be training or a presentation/program.  
+**First week:** Testing session.
+**Second week:** Club Business meeting.  
+**Third week:** Training or a Presentation/Program.  
              
 **Testing** We have updated our testing dates, see Events calender for dates each month. We will offer both ARRL and Laurel testing.
 

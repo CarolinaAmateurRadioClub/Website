@@ -1,5 +1,5 @@
 ---
-title: Carolina Amateur Radio Club
+title: Carolina Radio Club
 layout: post
 published: true
 date: 2020-06-11

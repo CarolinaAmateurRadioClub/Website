@@ -9,7 +9,7 @@ date: 2020-06-11
 
 
 **Meetings:**  We meet on the first three Thursdays of the month.  
-**First week:** Testing session.
+**First week:** Testing session.  
 **Second week:** Club Business meeting.  
 **Third week:** Training or a Presentation/Program.  
              

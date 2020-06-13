@@ -8,10 +8,10 @@ date: 2020-06-09
 **٭٭WE HAVE RESUMED TESTING & CLUB MEETINGS AS OF 6/1/2020.  SOCIAL DISTANCING WILL BE IN EFFECT AT ALL MEETINGS & TEST SESSIONS AND MASKS WILL BE REQUIRED.  THANK YOU FOR YOUR UNDERSTANDING DURING THIS DIFFICULT TIME٭٭**{: style="color: red;" }
 
 
-**Meetings**  We meet on the first three Thursdays of the month.
-**First week:** Testing and for those that are not testing some kind of training or a mini program.
-**Second week:** Is our business meeting.
-**Third week:** Will be training or a presentation/program.
+**Meetings**  We meet on the first three Thursdays of the month.  
+**First week:** Testing and for those that are not testing some kind of training or a mini program.  
+**Second week:** Is our business meeting.  
+**Third week:** Will be training or a presentation/program.  
              
 **Testing** We have updated our testing dates, see Events calender for dates each month. We will offer both ARRL and Laurel testing.
 

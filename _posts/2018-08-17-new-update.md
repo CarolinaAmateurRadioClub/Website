@@ -1,8 +1,8 @@
 ---
-title: Carolina Radio Club
+title: Carolina Amateur Radio Club
 layout: post
 published: true
-date: 2020-06-09
+date: 2020-06-11
 ---
 
 **٭٭WE HAVE RESUMED TESTING & CLUB MEETINGS AS OF 6/1/2020.  SOCIAL DISTANCING WILL BE IN EFFECT AT ALL MEETINGS & TEST SESSIONS AND MASKS WILL BE REQUIRED.  THANK YOU FOR YOUR UNDERSTANDING DURING THIS DIFFICULT TIME٭٭**{: style="color: red;" }

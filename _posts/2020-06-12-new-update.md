@@ -27,4 +27,4 @@ The Church Lincolnton
 Lincolnton, NC 28092  
 
 
-*** Our next meeting is Thursday June 11th, 2020 @ 7:00pm ***
+

@@ -23,7 +23,7 @@ If you have any questions, email <mailto:kt4nc.carc@gmail.com>.
 
 **Our meeting location is:**  
 The Church Lincolnton  
-1959 Startown Rd  
+1591 Startown Rd  
 Lincolnton, NC 28092  
 
 

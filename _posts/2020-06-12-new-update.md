@@ -22,9 +22,6 @@ Along with the above, please bring: a Government ID, a copy of your license or S
 If you have any questions, email <mailto:kt4nc.carc@gmail.com>.
 
 **Our meeting location is:**  
-The Church Lincolnton  
-1591 Startown Rd  
-Lincolnton, NC 28092  
-
+{{ site.meetingaddress }}
 
 

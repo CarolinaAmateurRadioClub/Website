@@ -4,7 +4,7 @@ layout: page
 ---
 {{ site.covidnotice }}
 
-**Our meeting location is currently at:**
+**Our meeting location is currently at:**  
 {{ site.meetingaddress }}
 
 <!-- We meet the first 3 Thursdays of the month at 7:00 PM, however you're welcome to come at 6:30 PM for greets and ragchews. Please bring any items that you want to trade / sell / contribute or have questions about as we have an excellent group of folks that are quite knowledgeable. -->

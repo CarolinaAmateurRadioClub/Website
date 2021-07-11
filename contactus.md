@@ -7,8 +7,6 @@ layout: page
 
 
 **Our meeting location is currently at:**
-**The Church Lincolnton**
-**1591 Startown Rd**
-**Lincolnton, NC 28092**
+**{{ site.meetingaddress }}**
 
 <iframe src="https://docs.google.com/forms/d/1yGREWrMmrvQ3YmTo_hqSrHrydH7hagPethJLyIqSFOw/viewform?embedded=true" width="100%" height="840" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

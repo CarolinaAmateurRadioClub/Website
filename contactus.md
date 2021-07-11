@@ -3,8 +3,7 @@ title: Contact Us
 layout: page
 ---
 
-**٭٭WE HAVE RESUMED TESTING & CLUB MEETINGS AS OF 6/1/2020.  SOCIAL DISTANCING WILL BE IN EFFECT AT ALL MEETINGS & TEST SESSIONS AND MASKS WILL BE REQUIRED.  THANK YOU FOR YOUR UNDERSTANDING DURING THIS DIFFICULT TIME٭٭**{: style="color: red;" }
-
+{{ site.covidnotice }}
 
 **Our meeting location is currently at:**
 {{ site.meetingaddress }}

@@ -2,7 +2,7 @@
 title: Events
 layout: page
 ---
-**٭٭WE HAVE RESUMED TESTING & CLUB MEETINGS ARE SUSPENDED UNTIL POSTED ELSEWHERE AS OF 6/6/2021.  SOCIAL DISTANCING WILL BE IN EFFECT AT ALL MEETINGS & TEST SESSIONS AND MASKS WILL BE REQUIRED.  THANK YOU FOR YOUR UNDERSTANDING DURING THIS DIFFICULT TIME٭٭**{: style="color: red;" }
+{{ site.covidnotice }}
 
 **Our meeting location is currently at:**
 {{ site.meetingaddress }}

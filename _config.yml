@@ -50,5 +50,5 @@ prose:
           value: "post"
       - name: "date"
         field:
-          element: "hidden"
+          element: "text"
           value: CURRENT_DATETIME

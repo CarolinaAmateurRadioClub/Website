@@ -50,5 +50,5 @@ prose:
           value: "post"
       - name: "date"
         field:
-          element: "text"
-          value: 2022-02-24
+          element: "hidden"
+          value: "2022-02-24"

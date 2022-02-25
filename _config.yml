@@ -51,4 +51,4 @@ prose:
       - name: "date"
         field:
           element: "text"
-          value: CURRENT_DATETIME
+          value: 2022-02-24

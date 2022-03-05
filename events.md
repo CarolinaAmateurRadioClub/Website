@@ -7,7 +7,7 @@ published: true
 **Our meeting location is currently at:**  
 {{ site.meetingaddress-firedept }}
 
-<!We are Requesting that you contact Gary Holland at (704)813-6233 to schedule your Test session.---->
+<We are Requesting that you contact Gary Holland at (704)813-6233 to schedule your Test session.>
 
 We test the **FIRST** Thursday each month starting at 7:00 pm, see the events calender for exact dates as some months are different because of holidays. 
 
